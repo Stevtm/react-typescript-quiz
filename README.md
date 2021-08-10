@@ -2,7 +2,9 @@
 
 This application presents the player with 10 randomized questions from the Open Trivia Database and indicates when a question is answered correctly or incorrectly.
 
-The application was built following the freeCodeCamp tutorial on YouTube [here](https://www.youtube.com/watch?v=F2JCjVSZlG0).
+The application is deployed [here](https://stevtm.github.io/react-typescript-quiz/).
+
+It was built following the freeCodeCamp tutorial on YouTube [here](https://www.youtube.com/watch?v=F2JCjVSZlG0).
 
 ## Tools Used
 
