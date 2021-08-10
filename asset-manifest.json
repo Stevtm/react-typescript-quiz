@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "//stevtm.github.io/react-typescript-quiz/static/js/main.eea225a5.chunk.js",
+    "main.js.map": "//stevtm.github.io/react-typescript-quiz/static/js/main.eea225a5.chunk.js.map",
+    "runtime-main.js": "//stevtm.github.io/react-typescript-quiz/static/js/runtime-main.5c60d466.js",
+    "runtime-main.js.map": "//stevtm.github.io/react-typescript-quiz/static/js/runtime-main.5c60d466.js.map",
+    "static/js/2.94eceee7.chunk.js": "//stevtm.github.io/react-typescript-quiz/static/js/2.94eceee7.chunk.js",
+    "static/js/2.94eceee7.chunk.js.map": "//stevtm.github.io/react-typescript-quiz/static/js/2.94eceee7.chunk.js.map",
+    "static/js/3.ee6874bd.chunk.js": "//stevtm.github.io/react-typescript-quiz/static/js/3.ee6874bd.chunk.js",
+    "static/js/3.ee6874bd.chunk.js.map": "//stevtm.github.io/react-typescript-quiz/static/js/3.ee6874bd.chunk.js.map",
+    "index.html": "//stevtm.github.io/react-typescript-quiz/index.html",
+    "static/js/2.94eceee7.chunk.js.LICENSE.txt": "//stevtm.github.io/react-typescript-quiz/static/js/2.94eceee7.chunk.js.LICENSE.txt",
+    "static/media/mountains.6df27a9d.jpeg": "//stevtm.github.io/react-typescript-quiz/static/media/mountains.6df27a9d.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5c60d466.js",
+    "static/js/2.94eceee7.chunk.js",
+    "static/js/main.eea225a5.chunk.js"
+  ]
+}
